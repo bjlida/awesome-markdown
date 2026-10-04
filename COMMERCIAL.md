@@ -12,6 +12,7 @@
 ### Hypertext Markup Language (HTML) to Markdown
 
 - [Minibase](https://www.minibase.md), [(Chrome Web Store)](https://chromewebstore.google.com/detail/mamnlljnkigkhppbjhmpdeocobcbobdp) - one-click browser extension (Chrome and Firefox) that turns any webpage into clean Markdown using AI. Handles X/Twitter threads, YouTube transcripts, Instagram reels, TikToks, and standard pages. Optional macOS and Windows companion app (Minibase Vault) stores saves locally and exposes them to Claude via MCP. (formerly Save)
+- [Feishu Toolkit](https://dsr.ink/) - chrome extension that turns any web page, Feishu/Lark document or wiki into Markdown, keeping headings, lists, code blocks and image links. Also exports PDF and single-file HTML and batch-downloads images and attachments. Runs locally; core features are free, Pro adds image packaging and batch export.
    
 ### PDF to Markdown
 
